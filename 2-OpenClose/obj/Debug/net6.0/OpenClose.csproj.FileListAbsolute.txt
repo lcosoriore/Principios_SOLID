@@ -1,0 +1,15 @@
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\bin\Debug\net6.0\OpenClose.exe
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\bin\Debug\net6.0\OpenClose.deps.json
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\bin\Debug\net6.0\OpenClose.runtimeconfig.json
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\bin\Debug\net6.0\OpenClose.dll
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\bin\Debug\net6.0\OpenClose.pdb
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.csproj.AssemblyReference.cache
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfoInputs.cache
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfo.cs
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.csproj.CoreCompileInputs.cache
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.dll
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\refint\OpenClose.dll
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.pdb
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\OpenClose.genruntimeconfig.cache
+D:\Repositorios\SOLID\Principios_SOLID\2-OpenClose\obj\Debug\net6.0\ref\OpenClose.dll
