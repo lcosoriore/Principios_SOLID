@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kNri9a07A4xpyuUkBllJQUnatj03YxPxzgDc+4Aosc7w8btFQHz12ZBBrFh70Cf6/h6q20IBAEiGHdyCg5W0Q==",
+  "dgSpecHash": "Czk9GXKw+ALoHdfd9o3K7DbmgYuAgc+JtVuULVzL51SccYhtkUOexrV8QOYqfOsTfnK5sh87hfiO2RUGOWsTcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yinny\\Downloads\\curso-principios-solid-csharp-0-codigobase\\curso-principios-solid-csharp-0-codigobase\\1-SingleResponsability\\SingleResponsability.csproj",
+  "projectFilePath": "D:\\Repositorios\\SOLID\\Principios_SOLID\\1-SingleResponsability\\SingleResponsability.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

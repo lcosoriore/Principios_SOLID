@@ -1,0 +1,15 @@
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\bin\Debug\net6.0\SingleResponsability.exe
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\bin\Debug\net6.0\SingleResponsability.deps.json
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\bin\Debug\net6.0\SingleResponsability.runtimeconfig.json
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\bin\Debug\net6.0\SingleResponsability.dll
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\bin\Debug\net6.0\SingleResponsability.pdb
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.csproj.AssemblyReference.cache
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.AssemblyInfoInputs.cache
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.AssemblyInfo.cs
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.csproj.CoreCompileInputs.cache
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.dll
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\refint\SingleResponsability.dll
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.pdb
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\SingleResponsability.genruntimeconfig.cache
+D:\Repositorios\SOLID\Principios_SOLID\1-SingleResponsability\obj\Debug\net6.0\ref\SingleResponsability.dll
