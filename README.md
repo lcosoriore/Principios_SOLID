@@ -1,2 +1,2 @@
-# Principios_SOLID
- Codigo para aplicar principios SOLID
+# Principios SOLID
+Proyectos en los cuales se aplican los principios solid
